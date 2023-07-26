@@ -15,12 +15,19 @@ Card Representation:
 The cards are represented as ASCII art, displaying the card's rank and suit.
 
 Example Card:
+
    _____
+
   |A _  |
+  
   | ( ) |
+  
   |(_'_)|
+  
   |  |  |
+  
   |____V|
+
 
 Card Legend:
 - A: Ace
